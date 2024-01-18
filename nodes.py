@@ -2,7 +2,6 @@ import os
 import random
 from datetime import datetime
 
-import gradio as gr
 import numpy as np
 import torch
 from diffusers import AutoencoderKL, DDIMScheduler
