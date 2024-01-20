@@ -6,9 +6,9 @@
 
 1. Clone this repo into custom_nodes directory of ComfyUI location
 
-2. Run pip install -r requirements.txt
+2. cd ComfyUI/custom_nodes/ComfyUI-Moore-AnimateAnyone & python tools/download_weights.py
 
-3. cd ComfyUI/custom_nodes/ComfyUI-Moore-AnimateAnyone & python tools/download_weights.py
+3. Run pip install -r requirements.txt
 
 ## Examples
 
